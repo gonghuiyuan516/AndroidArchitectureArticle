@@ -45,4 +45,4 @@
 
 #### [5、Android组件化之通信（多模块，多进程) 2017-02-18]( https://www.jianshu.com/p/1fc5f8a2d703)
 
-#### [6、豆瓣App的模块化实践 2016-10-16](http://lincode.github.io/Modularity)
+#### [6、有赞 App 模块化实战经验总结 2017-04-22](https://juejin.im/entry/58fb2bacda2f60005dba1ccd)
