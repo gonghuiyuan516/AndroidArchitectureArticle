@@ -38,10 +38,6 @@
 
 - #### [大风车 Android工程化实践：模块化 2018.03.22](https://juejin.im/post/5ab37cd3f265da238d50a0e6)
 
->  ### 插件化
-
-书籍推荐：[《Android插件化开发指南》](https://item.jd.com/12408095.html)
-
 - #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
 
 - #### [美团App 插件化实践 2017-10-12](https://tech.meituan.com/android_hydra.html)
@@ -53,6 +49,8 @@
 >  ### 优秀文章
 
 书籍推荐：[《Android组件化架构》](https://item.jd.com/12325825.html)
+书籍推荐：[《Android插件化开发指南》](https://item.jd.com/12408095.html)
+
 
 - #### [从零开始的Android新项目11 - 组件化实践（1） 2016-10-20](http://blog.zhaiyifan.cn/2016/10/20/android-new-project-from-0-p11/)
 
