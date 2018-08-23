@@ -72,4 +72,4 @@
 
 #### [NOW直播：Flutter混合工程开发探究 2018-07-23](https://juejin.im/post/5b55819ef265da0f8d36615e)
 
-#### [闲鱼：Flutter混合工程持续集成的最佳实践](https://yq.aliyun.com/articles/618599)
+#### [闲鱼：Flutter混合工程持续集成的最佳实践 2018-07-25](https://yq.aliyun.com/articles/618599)
