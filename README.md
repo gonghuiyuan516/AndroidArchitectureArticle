@@ -1,6 +1,7 @@
 # AndroidArchitectureArticle
 🔥持续更新Android架构文章大全
 
+### 架构
 
 #### [1、安居客 Android 项目架构演进  2017-02-24](http://baronzhang.com/blog/Framework/%E5%AE%89%E5%B1%85%E5%AE%A2Android%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/)
 
@@ -21,3 +22,13 @@
 #### [9、大众点评移动应用的架构演进 2013-04-12](http://www.infoq.com/cn/presentations/public-comment-mobile-application-architecture-evolution)
 
 #### [10、饿了么移动APP的架构演进 2016-01-06](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
+
+
+### 插件化
+书籍推荐：[《Android插件化开发指南》](https://item.jd.com/31188356430.html)
+
+#### [1、携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
+
+### 组件化&模块化
+书籍推荐：[《Android组件化架构》](http://item.jd.com/27131965413.html)
+
