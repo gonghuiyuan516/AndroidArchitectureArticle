@@ -1,5 +1,4 @@
-# AndroidArchitectureArticle
-🔥持续更新Android架构文章大全
+## 🔥持续更新Android架构文章大全
 
 [![](https://badge.juejin.im/entry/5b7e9a8451882542b45dd67f/likes.svg?style=flat-square)](https://juejin.im/entry/5b7e9a8451882542b45dd67f/detail)
 
