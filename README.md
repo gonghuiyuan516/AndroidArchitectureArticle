@@ -58,7 +58,7 @@
 
 #### [Android的组件化详解（CC框架源码剖析）2018-04-14](https://blog.csdn.net/xiatiandefeiyu/article/details/79916525)
 
-#### [开源最佳实践：Android平台页面路由框架ARouter](https://yq.aliyun.com/articles/71687)
+#### [开源最佳实践：Android平台页面路由框架ARouter 2017-03-06](https://yq.aliyun.com/articles/71687)
 
 #### [ARouter](https://github.com/alibaba/ARouter)
 
