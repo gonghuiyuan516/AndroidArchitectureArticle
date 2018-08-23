@@ -18,6 +18,10 @@
 
 - #### [美团App 插件化实践 2017-10-12](https://tech.meituan.com/android_hydra.html)
 
+- #### [美团—开源的移动端页面模块化开发框架Shield 2017-12-28](https://tech.meituan.com/shield_opensource.html)
+- 
+- #### [美团WMRouter：美团外卖Android开源路由框架 2018-08-23](https://tech.meituan.com/meituan_waimai_android_open_source_routing_framework.html)
+
 - #### [支付宝钱包客户端技术架构 2015-12-13](https://yq.aliyun.com/articles/128)
 
 - #### [手机淘宝移动端接入网关基础架构演进之路 2015-12-29](http://www.infoq.com/cn/articles/taobao-mobile-terminal-access-gateway-infrastructure)
@@ -42,7 +46,7 @@
 
 - #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
 
-- #### [WMRouter：美团外卖Android开源路由框架](https://tech.meituan.com/meituan_waimai_android_open_source_routing_framework.html)
+
 
 <br /><br />
 
@@ -66,10 +70,10 @@
 
 >  ### 推荐框架
 
-- #### 阿里云开源路由 [ARouter](https://github.com/alibaba/ARouter)
+- #### 阿里云 [ARouter](https://github.com/alibaba/ARouter)
 - #### 很帅的男人，不知道是谁 [CC](https://github.com/luckybilly/CC)
 - #### 得到 [JIMU](https://github.com/mqzhangw/JIMU)
-- #### 美团开源路由 [WMRouter](https://github.com/meituan/WMRouter)
+- #### 美团 [WMRouter](https://github.com/meituan/WMRouter)
 
 <br /><br />
 
