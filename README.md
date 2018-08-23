@@ -19,7 +19,7 @@
 - #### [美团App 插件化实践 2017-10-12](https://tech.meituan.com/android_hydra.html)
 
 - #### [美团—开源的移动端页面模块化开发框架Shield 2017-12-28](https://tech.meituan.com/shield_opensource.html)
-- 
+
 - #### [美团WMRouter：美团外卖Android开源路由框架 2018-08-23](https://tech.meituan.com/meituan_waimai_android_open_source_routing_framework.html)
 
 - #### [支付宝钱包客户端技术架构 2015-12-13](https://yq.aliyun.com/articles/128)
