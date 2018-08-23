@@ -35,3 +35,7 @@
 ### 组件化&模块化
 书籍推荐：[《Android组件化架构》](http://item.jd.com/27131965413.html)
 
+#### [1、美团猫眼电影android模块化实战--可能是最详细的模块化实战](https://www.jianshu.com/p/d372cc6802e5)
+
+#### [2、Android工程化实践：模块化](https://juejin.im/post/5ab37cd3f265da238d50a0e6)
+
