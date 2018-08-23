@@ -8,17 +8,19 @@
 
 - #### [微信Android模块化架构重构实践  2017-06-30](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0&key=2872d7939faa95a46b4dd8eec2b4222e304480e7c491f9e123cd47ab0e25f6a5bee9e7534bb2a7cc7f0a5cb56aa44df67d1b017718d6a24f823c92ea11450ffd19841ef3acc8ea7a9a1c288e8b640dd5&ascene=0&uin=Njc1NTY3MTIx&devicetype=iMac14%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=SJfCUWgSdjnsHwG3fpqXOHID4uDA1JGuzRRRiKQ2IJAdan6yEymN4QueZqAru9EL)
 
+- #### [微信红包的架构设计简介 2015-05-14](https://www.zybuluo.com/yulin718/note/93148)
+
+- #### [微信Android客户端架构演进之路 2016-01-01](http://www.infoq.com/cn/articles/wechat-android-app-architecture)
+
 - #### [美团外卖Android平台化架构演进实践 2018-03-18](https://blog.csdn.net/meituantech/article/details/80062451)
 
 - #### [美团猫眼电影android模块化实战--可能是最详细的模块化实战 2017.09.12](https://www.jianshu.com/p/d372cc6802e5)
 
+- #### [美团App 插件化实践 2017-10-12](https://tech.meituan.com/android_hydra.html)
+
 - #### [支付宝钱包客户端技术架构 2015-12-13](https://yq.aliyun.com/articles/128)
 
-- #### [微信红包的架构设计简介 2015-05-14](https://www.zybuluo.com/yulin718/note/93148)
-
 - #### [手机淘宝移动端接入网关基础架构演进之路 2015-12-29](http://www.infoq.com/cn/articles/taobao-mobile-terminal-access-gateway-infrastructure)
-
-- #### [微信Android客户端架构演进之路 2016-01-01](http://www.infoq.com/cn/articles/wechat-android-app-architecture)
 
 - #### [涅盘新生—Android QQ音乐架构演进 2015-05-30](http://www.infoq.com/cn/presentations/evolution-of-android-qq-music-architecture)
 
@@ -40,7 +42,7 @@
 
 - #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
 
-- #### [美团App 插件化实践 2017-10-12](https://tech.meituan.com/android_hydra.html)
+
 
 
 
@@ -56,7 +58,7 @@
 
 - #### [Android架构思考(模块化、多进程) 2016-12-28](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
-- #### [Android的组件化详解（CC框架源码剖析）2018-04-14](https://blog.csdn.net/xiatiandefeiyu/article/details/79916525)
+- #### [CC：基于总线的android组件化开发框架）2018-04-14](https://juejin.im/post/5a2b92e4f265da430d57f047)
 
 - #### [开源最佳实践：Android平台页面路由框架ARouter 2017-03-06](https://yq.aliyun.com/articles/71687)
 
