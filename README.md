@@ -3,7 +3,7 @@
 [![](https://badge.juejin.im/entry/5b7e9a8451882542b45dd67f/likes.svg?style=flat-square)](https://juejin.im/entry/5b7e9a8451882542b45dd67f/detail)
 
 ### 架构
-
+---
 - #### [安居客 Android 项目架构演进  2017-02-24](http://baronzhang.com/blog/Framework/%E5%AE%89%E5%B1%85%E5%AE%A2Android%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/)
 
 - #### [微信Android模块化架构重构实践  2017-06-30](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0&key=2872d7939faa95a46b4dd8eec2b4222e304480e7c491f9e123cd47ab0e25f6a5bee9e7534bb2a7cc7f0a5cb56aa44df67d1b017718d6a24f823c92ea11450ffd19841ef3acc8ea7a9a1c288e8b640dd5&ascene=0&uin=Njc1NTY3MTIx&devicetype=iMac14%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=SJfCUWgSdjnsHwG3fpqXOHID4uDA1JGuzRRRiKQ2IJAdan6yEymN4QueZqAru9EL)
@@ -32,7 +32,7 @@
 
 
 ### 插件化
-
+---
 书籍推荐：[《Android插件化开发指南》](https://item.jd.com/12408095.html)
 
 - #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
@@ -44,7 +44,7 @@
 
 
 ### 组件化&模块化
-
+---
 书籍推荐：[《Android组件化架构》](https://item.jd.com/12325825.html)
 
 - #### [美团猫眼电影android模块化实战--可能是最详细的模块化实战 2017.09.12](https://www.jianshu.com/p/d372cc6802e5)
@@ -70,7 +70,7 @@
 
 
 ### Flutter
-
+---
 - #### [美团：Flutter的原理及美团的实践 2018-08-10](https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw)
 
 - #### [NOW直播：Flutter混合工程开发探究 2018-07-23](https://juejin.im/post/5b55819ef265da0f8d36615e)
