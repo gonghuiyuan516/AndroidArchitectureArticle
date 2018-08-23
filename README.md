@@ -67,6 +67,7 @@
 
 - #### [得到App Android组件化方案解析 2018-01-06](https://blog.csdn.net/coder_nice/article/details/78892999)
 
+- #### [Android工程模块化平台设计-讲稿 2018-04-22](https://juejin.im/post/5adc03b2518825670f7b6f05)
 
 
 >  ### Flutter
