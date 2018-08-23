@@ -23,6 +23,9 @@
 
 #### [10、饿了么移动APP的架构演进 2016-01-06](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
 
+#### [11、滴滴国际化项目 Android 端演进 2016-12-19](http://www.trinea.cn/android/didi-internationalization-android-evolution/)
+
+#### [12、苏宁易购Android架构演进史 2018-4-18](http://www.apkbus.com/blog-873057-77534.html)
 
 ### 插件化
 书籍推荐：[《Android插件化开发指南》](https://item.jd.com/31188356430.html)
