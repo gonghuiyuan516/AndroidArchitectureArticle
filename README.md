@@ -7,3 +7,17 @@
 #### [2、微信Android模块化架构重构实践  2017-06-30](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0&key=2872d7939faa95a46b4dd8eec2b4222e304480e7c491f9e123cd47ab0e25f6a5bee9e7534bb2a7cc7f0a5cb56aa44df67d1b017718d6a24f823c92ea11450ffd19841ef3acc8ea7a9a1c288e8b640dd5&ascene=0&uin=Njc1NTY3MTIx&devicetype=iMac14%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=SJfCUWgSdjnsHwG3fpqXOHID4uDA1JGuzRRRiKQ2IJAdan6yEymN4QueZqAru9EL)
 
 #### [3、美团外卖Android平台化架构演进实践 2018-03-18](https://blog.csdn.net/meituantech/article/details/80062451)
+
+#### [4、支付宝钱包客户端技术架构 2015-12-13](https://yq.aliyun.com/articles/128)
+
+#### [5、微信红包的架构设计简介 2015-05-14](https://www.zybuluo.com/yulin718/note/93148)
+
+#### [6、手机淘宝移动端接入网关基础架构演进之路 2015-12-29](http://www.infoq.com/cn/articles/taobao-mobile-terminal-access-gateway-infrastructure)
+
+#### [7、微信Android客户端架构演进之路 2016-01-01](http://www.infoq.com/cn/articles/wechat-android-app-architecture)
+
+#### [8、涅盘新生—Android QQ音乐架构演进 2015-05-30](http://www.infoq.com/cn/presentations/evolution-of-android-qq-music-architecture)
+
+#### [9、大众点评移动应用的架构演进 2013-04-12](http://www.infoq.com/cn/presentations/public-comment-mobile-application-architecture-evolution)
+
+#### [10、饿了么移动APP的架构演进 2016-01-06](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90&scene=2&srcid=0106EtxRjD2jHxzomxVPTwY3&from=timeline&isappinstalled=0&uin=NzgwODIwNDgw&key=&devicetype=webwx&version=70000001&lang=zh_CN&pass_ticket=46hW44w3Hxd7VY9rutz7mgLu1JGe2T1AAKNQpxNoYOSGi8NpmNYr%2BAZj%2BiXtRX2F)
