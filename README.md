@@ -43,6 +43,6 @@
 
 #### [4、Android架构思考(模块化、多进程) 2016-12-28](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
-#### [5、Android组件化之通信（多模块，多进程 2017-02-18)]( https://www.jianshu.com/p/1fc5f8a2d703)
+#### [5、Android组件化之通信（多模块，多进程) 2017-02-18]( https://www.jianshu.com/p/1fc5f8a2d703)
 
 #### [6、豆瓣App的模块化实践 2016-10-16](http://lincode.github.io/Modularity)
