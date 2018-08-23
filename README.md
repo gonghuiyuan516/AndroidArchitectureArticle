@@ -49,21 +49,26 @@
 
 >  ### 优秀文章
 
-书籍推荐：[《Android组件化架构》](https://item.jd.com/12325825.html)
-书籍推荐：[《Android插件化开发指南》](https://item.jd.com/12408095.html)
+书籍推荐：[《Android组件化架构》](https://item.jd.com/12325825.html)、[《Android插件化开发指南》](https://item.jd.com/12408095.html)
 
 
 - #### [从零开始的Android新项目11 - 组件化实践（1） 2016-10-20](http://blog.zhaiyifan.cn/2016/10/20/android-new-project-from-0-p11/)
 
 - #### [Android架构思考(模块化、多进程) 2016-12-28](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
-- #### [CC：基于总线的android组件化开发框架）2018-04-14](https://juejin.im/post/5a2b92e4f265da430d57f047)
+- #### [业内首个支持渐进式组件化的开源框架）2018-04-14](https://juejin.im/post/5b255f6ce51d45588f2d1f89?tdsourcetag=s_pctim_aiomsg)
 
 - #### [开源最佳实践：Android平台页面路由框架ARouter 2017-03-06](https://yq.aliyun.com/articles/71687)
 
-- #### [ARouter](https://github.com/alibaba/ARouter)
-
 - #### [Android工程模块化平台设计-讲稿 2018-04-22](https://juejin.im/post/5adc03b2518825670f7b6f05)
+
+<br /><br /><br /><br />
+
+>  ### 推荐框架
+
+- #### [ARouter](https://github.com/alibaba/ARouter)
+- #### [CC](https://github.com/luckybilly/CC)
+- #### [JIMU](https://github.com/mqzhangw/JIMU)
 
 <br /><br /><br /><br />
 
