@@ -27,12 +27,19 @@
 
 #### [苏宁易购Android架构演进史 2018-4-18](http://www.apkbus.com/blog-873057-77534.html)
 
+
+
+
 ### 插件化
 书籍推荐：[《Android插件化开发指南》](https://item.jd.com/31188356430.html)
 
 #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
 
 #### [美团App 插件化实践](https://tech.meituan.com/android_hydra.html)
+
+
+
+
 
 ### 组件化&模块化
 书籍推荐：[《Android组件化架构》](http://item.jd.com/27131965413.html)
@@ -48,6 +55,9 @@
 #### [有赞 App 模块化实战经验总结 2017-04-22](https://juejin.im/entry/58fb2bacda2f60005dba1ccd)
 
 #### [聚美组件化实践之路 2018-01-04](https://juejin.im/post/5a4b4425518825128654eef4)
+
+
+
 
 ### Flutter
 
