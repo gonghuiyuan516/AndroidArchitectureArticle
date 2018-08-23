@@ -56,7 +56,7 @@
 
 #### [聚美组件化实践之路 2018-01-04](https://juejin.im/post/5a4b4425518825128654eef4)
 
-#### [Android的组件化详解（CC框架源码剖析）](https://blog.csdn.net/xiatiandefeiyu/article/details/79916525)
+#### [Android的组件化详解（CC框架源码剖析）2018-04-14](https://blog.csdn.net/xiatiandefeiyu/article/details/79916525)
 
 #### [开源最佳实践：Android平台页面路由框架ARouter](https://yq.aliyun.com/articles/71687)
 
