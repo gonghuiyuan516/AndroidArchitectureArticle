@@ -39,3 +39,8 @@
 
 #### [2、Android工程化实践：模块化 2018.03.22](https://juejin.im/post/5ab37cd3f265da238d50a0e6)
 
+#### [3、从零开始的Android新项目11 - 组件化实践（1） 2016-10-20](http://blog.zhaiyifan.cn/2016/10/20/android-new-project-from-0-p11/)
+
+#### [4、Android架构思考(模块化、多进程) 2016-12-28](http://blog.spinytech.com/2016/12/28/android_modularization/)
+
+#### [Android组件化之通信（多模块，多进程 2017-02-18]( https://www.jianshu.com/p/1fc5f8a2d703)
