@@ -46,6 +46,7 @@
 
 - #### [携程Android App插件化和动态加载实践 2015-11-04](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=0&key=b410d3164f5f798e61a5d4afb759fa38371c8b119384c6163a30c28163b4d4d5f59399f2400800ec842f1d0e0ffb84af&ascene=0&uin=MjExMjQ&pass_ticket=Nt5Jaa28jjFxcQO9o%2BvQiXX%2B0iXG5DlZlHNW97Fk1Ew%3D)
 
+- #### [英语流利说 Android 架构演进 2016-05-29 ](https://blog.dreamtobe.cn/2016/05/29/lls_architecture/)
 
 
 <br /><br />
@@ -84,3 +85,29 @@
 - #### [NOW直播：Flutter混合工程开发探究 2018-07-23](https://juejin.im/post/5b55819ef265da0f8d36615e)
 
 - #### [闲鱼：Flutter混合工程持续集成的最佳实践 2018-07-25](https://yq.aliyun.com/articles/618599)
+
+
+
+---
+
+MIT License
+
+Copyright (c) 2018 张德帅
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
