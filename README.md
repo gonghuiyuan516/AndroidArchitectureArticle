@@ -87,6 +87,8 @@
 - #### [闲鱼：Flutter混合工程持续集成的最佳实践 2018-07-25](https://yq.aliyun.com/articles/618599)
 
 
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=bcdfa94c4558b2a271b2af56b384bca40a8ce80df5f6be1a2295df6503d265d2"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="500人" title="500人"></a>
+
 
 ---
 
