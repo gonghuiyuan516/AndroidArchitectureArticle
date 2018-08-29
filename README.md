@@ -90,7 +90,9 @@
 
 ---
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4fe8a8d4f6ebacc8a62c06effdec35f5dd9c11fe22b7c642c3787c600571acf6"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Square开源交流" title="Square开源交流"></a>
+本群创建于2015/9/26:  Square开源交流square.github.io，Dagger、Retrofit、Rxjava、Okhttp、LeakCanary、Picasso、SQLBrite、Otto、插件化、热修复、RESTful、MVP、MVVM等
+
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4fe8a8d4f6ebacc8a62c06effdec35f5dd9c11fe22b7c642c3787c600571acf6"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Square开源交流、点击加入" title="Square开源交流、点击加入"></a>
 
 ![image](http://oytvhk2e6.bkt.clouddn.com/18-8-29/32091774.jpg)
 
