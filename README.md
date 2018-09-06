@@ -86,7 +86,7 @@
 
 - #### [闲鱼：Flutter混合工程持续集成的最佳实践 2018-07-25](https://yq.aliyun.com/articles/618599)
 
-
+- #### [饿了么物流技术团队 与Flutter第一次亲密接触-Android 视角]https://juejin.im/post/5b8d46c3e51d4538e710bc78
 
 ---
 
