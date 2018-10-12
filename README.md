@@ -22,6 +22,10 @@
 
 - #### [美团WMRouter：美团外卖Android开源路由框架 2018-08-23](https://tech.meituan.com/meituan_waimai_android_open_source_routing_framework.html)
 
+- #### [美团外卖Android平台化的复用实践 2018-09-27](https://tech.meituan.com/waimai_android_multi_app_reuse.html)
+
+
+
 - #### [支付宝钱包客户端技术架构 2015-12-13](https://yq.aliyun.com/articles/128)
 
 - #### [手机淘宝移动端接入网关基础架构演进之路 2015-12-29](http://www.infoq.com/cn/articles/taobao-mobile-terminal-access-gateway-infrastructure)
