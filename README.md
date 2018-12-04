@@ -52,9 +52,11 @@
 
 - #### [英语流利说 Android 架构演进 2016-05-29 ](https://blog.dreamtobe.cn/2016/05/29/lls_architecture/)
 
-- #### [51信用卡Android架构演进实践 208-11-13 ](https://mp.weixin.qq.com/s/BjKeh7gk-5ijrpafGpQJbw)
+- #### [51信用卡Android架构演进实践 2018-11-13 ](https://mp.weixin.qq.com/s/BjKeh7gk-5ijrpafGpQJbw)
 
-- #### [知乎 Android 客户端组件化实践 208-10-03 ](https://www.jianshu.com/p/f1aeb0369746)
+- #### [知乎 Android 客户端组件化实践 2018-10-03 ](https://www.jianshu.com/p/f1aeb0369746)
+
+- #### [网易 Android 客户端路由总线设计  208-12-03 ](https://mp.weixin.qq.com/s/-iPnPhITTQ3WpePTQZDDZQ)
 
 
 
