@@ -99,6 +99,8 @@
 
 - #### [饿了么物流技术团队 与Flutter第一次亲密接触-Android 视角](https://juejin.im/post/5b8d46c3e51d4538e710bc78)
 
+- #### [Flutter基础视频免费教程 共25集完成](https://juejin.im/post/5c1c5c1a6fb9a049f43b4944)
+
 ---
 
 本群创建于2015/9/26:  Square开源交流square.github.io，Dagger、Retrofit、Rxjava、Okhttp、LeakCanary、Picasso、SQLBrite、Otto、插件化、热修复、RESTful、MVP、MVVM等
