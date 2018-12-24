@@ -56,7 +56,9 @@
 
 - #### [知乎 Android 客户端组件化实践 2018-10-03 ](https://www.jianshu.com/p/f1aeb0369746)
 
-- #### [网易 Android 客户端路由总线设计  208-12-03 ](https://mp.weixin.qq.com/s/-iPnPhITTQ3WpePTQZDDZQ)
+- #### [网易 Android 客户端路由总线设计  2018-12-03 ](https://mp.weixin.qq.com/s/-iPnPhITTQ3WpePTQZDDZQ)
+
+- #### [美团 Android组件化方案及组件消息总线modular-event实战  2018-12-24 ](https://mp.weixin.qq.com/s/-iPnPhITTQ3WpePTQZDDZQ)
 
 
 
