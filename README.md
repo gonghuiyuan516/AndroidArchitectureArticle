@@ -60,7 +60,7 @@
 
 - #### [美团 Android组件化方案及组件消息总线modular-event实战  2018-12-24 ](https://juejin.im/post/5c2042ede51d4558bf395267)
 
-
+- #### [铜板街 Android客户端项目组件化实践  2019-02-18 ](https://juejin.im/post/5c6a73d5e51d457f14361e0c)
 
 <br /><br />
 
