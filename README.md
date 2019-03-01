@@ -1,5 +1,11 @@
 ## 🔥持续更新Android架构文章大全
 
+
+
+🔥持续更新Fluter架构文章大全
+https://github.com/gonghuiyuan516/FlutterArchitectureArticle
+
+
 [![](https://badge.juejin.im/entry/5b7e9a8451882542b45dd67f/likes.svg?style=flat-square)](https://juejin.im/entry/5b7e9a8451882542b45dd67f/detail)
 
 >  ### 厂商实践经验
