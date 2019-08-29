@@ -68,6 +68,8 @@
 
 - #### [铜板街 Android客户端项目组件化实践  2019-02-18 ](https://juejin.im/post/5c6a73d5e51d457f14361e0c)
 
+- #### [讯飞输入法Android架构演进  2017-12-03 ](https://juejin.im/post/5b2f8565f265da598451f6f2)
+
 <br /><br />
 
 
