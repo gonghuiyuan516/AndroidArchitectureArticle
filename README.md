@@ -110,7 +110,6 @@
 
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4fe8a8d4f6ebacc8a62c06effdec35f5dd9c11fe22b7c642c3787c600571acf6"><img border="0" src="http://img.gonghuiyuan.com/square.png" alt="Square开源交流、点击加入" title="Square开源交流、点击加入"></a>
 
-![image](http://img.gonghuiyuan.com/square.png)
 
 ---
 
