@@ -1,5 +1,6 @@
 ## 🔥持续更新Android架构文章大全
 
+##链接可能过期，请各位大佬复制标题，百度搜索。
 
 --> Fluter架构文章大全
 --> https://github.com/gonghuiyuan516/FlutterArchitectureArticle
