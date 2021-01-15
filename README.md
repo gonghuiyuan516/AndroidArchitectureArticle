@@ -2,6 +2,8 @@
 
 ##链接可能过期，请各位大佬复制标题，百度搜索。
 
+## PDF建议下载看看。
+
 --> Fluter架构文章大全
 --> https://github.com/gonghuiyuan516/FlutterArchitectureArticle
 
