@@ -69,6 +69,8 @@
 - #### [2019-02-18 铜板街 Android客户端项目组件化实践](https://juejin.im/post/5c6a73d5e51d457f14361e0c)
 
 - #### [2019-04-25 从智行 Android 项目看组件化架构实践](https://blog.csdn.net/Nx2XJBUr4Jg8ef80l1K/article/details/89530243)
+- 
+- #### [2020-09-30 外卖客户端容器化架构的演进](https://tech.meituan.com/2020/09/30/waimai-mobile-architecture-evolution.html)
 
 
 
