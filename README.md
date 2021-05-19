@@ -72,6 +72,7 @@
 
 - #### [2020-09-30 外卖客户端容器化架构的演进](https://tech.meituan.com/2020/09/30/waimai-mobile-architecture-evolution.html)
 
+- #### [2020-11-20 爱奇艺知识移动端组件化探索和实践](https://blog.csdn.net/weixin_38753262/article/details/109882078)
 
 
 
