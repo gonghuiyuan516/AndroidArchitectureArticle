@@ -2,7 +2,10 @@
 
 ##链接可能过期，请各位大佬复制标题，百度搜索。
 
-## PDF建议下载看看。
+https://github.com/gonghuiyuan516/AndroidArchitectureArticle/blob/master/PDF%E9%AB%98%E7%BA%A7Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%BA%E5%8C%96%E5%AE%9E%E6%88%98%EF%BC%88%E9%99%84%E6%BA%90%E7%A0%81.pdf
+## PDF高级Android组件化强化实战（附源码.pdf)     PDF建议下载看看。
+
+
 
 --> Fluter架构文章大全
 --> https://github.com/gonghuiyuan516/FlutterArchitectureArticle
