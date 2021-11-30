@@ -76,6 +76,8 @@ https://github.com/gonghuiyuan516/AndroidArchitectureArticle/blob/master/PDF%E9%
 - #### [2020-09-30 外卖客户端容器化架构的演进](https://tech.meituan.com/2020/09/30/waimai-mobile-architecture-evolution.html)
 
 - #### [2020-11-20 爱奇艺知识移动端组件化探索和实践](https://blog.csdn.net/weixin_38753262/article/details/109882078)
+- 
+- #### [2021-06-20 滴滴开源DRouter：一款高效的Android路由框架](https://juejin.cn/post/6975818153381068831#heading-2)  https://github.com/didi/DRouter/wiki
 
 
 
