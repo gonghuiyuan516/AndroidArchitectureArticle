@@ -119,6 +119,9 @@ https://github.com/gonghuiyuan516/AndroidArchitectureArticle/blob/master/PDF%E9%
 <br /><br />
 
 
+<img src="https://github.com/gonghuiyuan516/AndroidArchitectureArticle/blob/master/62B1CBCC-88E7-4A66-9675-277A9032EDCD.jpeg" />
+
+
 ---
 
 2016/12/29 Android组件化交流 QQ群： 316556016
