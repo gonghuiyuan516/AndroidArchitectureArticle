@@ -86,7 +86,7 @@ https://github.com/gonghuiyuan516/AndroidArchitectureArticle/blob/master/PDF%E9%
 
 - #### [2022-09-05 货拉拉 Android 模块化路由框架：TheRouter](https://juejin.cn/post/7139718803637665822)  https://juejin.cn/post/7139718803637665822
 
-
+- ####  2024-01-26  企业微信大型Android系统重构之路     https://cloud.tencent.com/developer/article/2383707
 
 <br /><br />
 >  ### 值得一读
